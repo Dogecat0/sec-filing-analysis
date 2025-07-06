@@ -101,7 +101,9 @@ It is still under development and one of most important features (I'd very much 
 
 ## Demo Video
 
-[![Watch the Demo Video](https://img.youtube.com/vi/inkxzxyGtas/hqdefault.jpg)]([https://www.youtube.com/watch?v=inkxzxyGtas](https://youtu.be/inkxzxyGtas))
+[![Watch the Demo Video](https://img.youtube.com/vi/inkxzxyGtas/hqdefault.jpg)]((https://youtu.be/inkxzxyGtas))
+
 </hr>
-*Click the image above to watch the video!*
+
+[Link](https://youtu.be/inkxzxyGtas/) to the Video
 
