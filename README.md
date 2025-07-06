@@ -94,3 +94,14 @@ This project involved several interesting technical challenges:
 
 This project demonstrates a powerful, practical application of what AI can achieve in the financial domain. 
 It is still under development and one of most important features (I'd very much like to do it next) is to implemented Machine Learning pipeline to perform sentiment analysis towards a company use LLM-generated analysis.
+
+---
+
+Demo Video:
+
+<p align="center">
+  <video autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="700">
+    <source src="./assets/sec-filing-analysis-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
